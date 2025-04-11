@@ -45,7 +45,8 @@ pipe = StableDiffusionPipeline.from_pretrained(
 ).to("cuda")
 
 ### Installation:
-
+follow this link to analyse
+https://huggingface.co/spaces/gopi135942/AI_art_generator
 
 # Set up Python environment
 python -m venv ghibli-env
